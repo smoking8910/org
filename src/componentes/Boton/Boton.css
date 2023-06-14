@@ -1,0 +1,14 @@
+.boton {
+    background-color: #6278F7;
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: 'Montserrat',sans-serif;
+    padding: 24px 32px;
+    border: none;
+    margin: 32px 0;
+    cursor: pointer;
+}
+
+.boton:hover{                               /*esta funcion sirve para cambiar de color cuando el click esta encima del boton*/
+    color: #95FFD4
+}
